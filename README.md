@@ -24,7 +24,7 @@ A minimalistic to-do list application to help you keep track of your tasks and s
 
 ## Video Demo
 
-<iframe src="https://drive.google.com/file/d/1oPXPmbSN6RiF2JQ0rOv3j7N9RJyi5eAR/preview" ></iframe></iframe>
+<iframe src="https://drive.google.com/file/d/1oPXPmbSN6RiF2JQ0rOv3j7N9RJyi5eAR/preview" ></iframe>
 
 ## License
 
